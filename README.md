@@ -3,8 +3,7 @@
 </h1>
 
 <h1 align="center">
-  Hi 👋 I am Yuvraj Patil <img style="width:16rem; height:auto"  align="right" src="https://user-images.githubusercontent.com/5191208/135762223-5635aa67-6a49-4d00-9d13-604f4378910e.png"/>
-
+  Hi 👋 I am Yuvraj Patil
 </h1>
 
 <hr>
@@ -13,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=yuvi1422&color=brightgreen" alt="watching_count" />
 </p>
 
-❤️ **Loves coding**<br>
-🏄‍♂️ Enjoys learning new technologies.<br>
-✍️ Coding since last 9 years.<br>
-🌱 Currently making hands dirty in **React** ecosystem.
+<h2>❤️ Loves coding<br></h2>
+<h2>🏄‍♂️ Enjoys learning new technologies.</h2>
+<h2>✍️ Coding since last 9 years.</h2>
+<h2>🌱 Currently making hands dirty in React ecosystem.</h2>
                                                               
                                                           
 <br><br>
