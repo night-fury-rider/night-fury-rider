@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=yuvi1422&color=brightgreen" alt="watching_count" />
 </p>
 
-<h2>❤️ Loves coding<br></h2>
-<h2>🏄‍♂️ Enjoys learning new technologies.</h2>
-<h2>✍️ Coding since last 9 years.</h2>
-<h2>🌱 Currently making hands dirty in React ecosystem.</h2>
+<h3>❤️ Loves coding<br></h3>
+<h3>🏄‍♂️ Enjoys learning new technologies.</h3>
+<h3>✍️ Coding since last 9 years.</h3>
+<h3>🌱 Currently making hands dirty in React ecosystem.</h3>
                                                               
                                                           
 <br><br>
@@ -27,27 +27,27 @@
 <br>
 
 <a href="#">
-  <img title="React" style="width:7rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135761608-a705d42f-1a38-4e72-ba3c-1c0bbcd20543.png"/>
+  <img title="React" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135761608-a705d42f-1a38-4e72-ba3c-1c0bbcd20543.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img title="Redux Saga" style="width:7rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135762531-abfefe5e-6b36-4d81-82ac-34f26d1648fe.png"/>
+  <img title="Redux Saga" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135762531-abfefe5e-6b36-4d81-82ac-34f26d1648fe.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img title="JavaScript" style="width:7rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764730-a29a6935-596e-42d9-b3dc-44e8f21c10d9.png"/>
+  <img title="JavaScript" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764730-a29a6935-596e-42d9-b3dc-44e8f21c10d9.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img title="TypeScript" style="width:7rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764624-04cfdc2c-022b-4826-a082-df14982bf12c.png"/>
+  <img title="TypeScript" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764624-04cfdc2c-022b-4826-a082-df14982bf12c.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="#">
-  <img title="Angular" style="width:7rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764552-0f956a91-27c2-465d-82ed-209a7338c099.png"/>
+  <img title="Angular" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764552-0f956a91-27c2-465d-82ed-209a7338c099.png"/>
 </a>
 
 <br><br>
