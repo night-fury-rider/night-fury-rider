@@ -59,12 +59,12 @@
 
 <br>
 
-<a href="http://www.yuvrajpatil.com" target="_blank">
+<a href="https://www.yuvrajpatil.com" target="_blank">
   <img title="Personal Website" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764150-0751d7ae-7722-49a7-9443-994ce9537447.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/yuvi1422/" target="_blank">
+<a href="https://www.linkedin.com/in/night-fury-rider" target="_blank">
   <img title="LinkedIn" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764013-aab34e79-8a94-468d-903e-1b7430581709.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,22 +74,6 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://yuvraj-patil.medium.com/" target="_blank">
+<a href="https://night-fury-rider.medium.com/" target="_blank">
   <img title="Medium" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764234-1410dfbd-e488-49d0-97cd-f39a48eeac70.jpg"/>
 </a>
-
-
-<!--
-**yuvi1422/yuvi1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
