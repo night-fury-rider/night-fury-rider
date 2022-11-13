@@ -46,9 +46,6 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="#">
-  <img title="Angular" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764552-0f956a91-27c2-465d-82ed-209a7338c099.png"/>
-</a>
 
 <br><br>
 
