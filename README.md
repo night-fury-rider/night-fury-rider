@@ -61,7 +61,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/night-fury-rider" target="_blank">
+<a href="https://www.linkedin.com/in/Yuvraj-Che-Rajya" target="_blank">
   <img title="LinkedIn" style="width:4rem; height:auto" src="https://user-images.githubusercontent.com/5191208/135764013-aab34e79-8a94-468d-903e-1b7430581709.png"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
